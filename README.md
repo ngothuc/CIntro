@@ -1,0 +1,1 @@
+- Các bài đều được viết bằng ngôn ngữ lập trình C. Tuy nhiên mình vẫn để đuôi file là .cpp do lười đổi compiler và IDE mình sử dụng là DevC++.
